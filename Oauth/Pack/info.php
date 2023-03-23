@@ -1,0 +1,3 @@
+<?php
+header('Content-Type: application/json; charset=utf-8');
+?>{"data":{"uri":"","kf":0,"update":0,"bbs":"http:\/\/bbs.ilongyuan.com.cn\/","notice":{"id":"9","title":"\u9f99\u6e0a\u65b0\u7248SDK\u53d1\u5e03","url":"http:\/\/account.ilongyuan.com.cn\/Sdk\/Notice\/info\/id\/9"},"update_msg":"\u60a8\u5f53\u524d\u7684\u6e38\u620f\u7248\u672c\u8fc7\u4f4e\uff0c\u8bf7\u4e0b\u8f7d\u66f4\u65b0\uff0c\u5b89\u88c5\u4e4b\u540e\u518d\u8fdb\u5165\u6e38\u620f"},"errno":200,"errinfo":""}
